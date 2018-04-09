@@ -33,4 +33,8 @@ Printing a staircase pattern using loops<br>
 **10. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)** ([src/warmup/TimeConversion.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/TimeConversion.java))<br>
 Printing a staircase pattern using loops<br>
 <br>
+<h3>Implementation</h3>
+**1. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)** ([src/warmup/GradingStudents.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/GradingStudents.java))<br>
+Printing a staircase pattern using loops<br>
+<br><br>
 
