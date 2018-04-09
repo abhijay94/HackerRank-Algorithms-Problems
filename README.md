@@ -18,4 +18,7 @@ Summing large numbers (10^10)<br>
 **5. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)** ([src/warmup/DiagonalDiff.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/DiagonalDiff.java))<br>
 Calculating the difference between primary and secondary diagonals of a matrix<br>
 <br>
+**5. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)** ([src/warmup/PlusMinus.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/PlusMinus.java))<br>
+Calculating the difference between primary and secondary diagonals of a matrix<br>
+<br>
 
