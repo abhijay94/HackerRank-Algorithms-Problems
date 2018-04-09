@@ -15,4 +15,7 @@ Comparing triplets and returning points<br>
 **4. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)** ([src/warmup/VeryBigSum.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/VeryBigSum.java))<br>
 Summing large numbers (10^10)<br>
 <br>
+**5. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)** ([src/warmup/DiagonalDiff.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/DiagonalDiff.java))<br>
+Calculating the difference between primary and secondary diagonals of a matrix<br>
+<br>
 
