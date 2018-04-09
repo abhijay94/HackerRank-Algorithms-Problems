@@ -18,10 +18,13 @@ Summing large numbers (10^10)<br>
 **5. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)** ([src/warmup/DiagonalDiff.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/DiagonalDiff.java))<br>
 Calculating the difference between primary and secondary diagonals of a matrix<br>
 <br>
-**5. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)** ([src/warmup/PlusMinus.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/PlusMinus.java))<br>
+**6. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)** ([src/warmup/PlusMinus.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/PlusMinus.java))<br>
 Calculating the difference between primary and secondary diagonals of a matrix<br>
 <br>
-**5. [Staircase](https://www.hackerrank.com/challenges/staircase/problem)** ([src/warmup/Staircase.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/Staircase.java))<br>
-Prinitng a starircase pattern using loops<br>
+**7. [Staircase](https://www.hackerrank.com/challenges/staircase/problem)** ([src/warmup/Staircase.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/Staircase.java))<br>
+Printing a staircase pattern using loops<br>
+<br>
+**8. [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)** ([src/warmup/MinMaxSum.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/MinMaxSum.java))<br>
+Printing a staircase pattern using loops<br>
 <br>
 
