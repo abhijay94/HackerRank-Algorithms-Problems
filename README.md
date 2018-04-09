@@ -1,7 +1,7 @@
 # HackerRank Algorithms Problems
 My solutions to HackerRank's algorithms practice problems.
 
-####Warmup
+<h3>Warmup</h3>
 
 **1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)** ([src/warmup/SolveMeFirst.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/SolveMeFirst.java))<br>
 Simple program to return the sum from a method<br>
