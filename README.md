@@ -25,6 +25,12 @@ Calculating the difference between primary and secondary diagonals of a matrix<b
 Printing a staircase pattern using loops<br>
 <br>
 **8. [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)** ([src/warmup/MinMaxSum.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/MinMaxSum.java))<br>
+Printing the min and max sum for the given array<br>
+<br>
+**9. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)** ([src/warmup/BdayCakeCandles.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/BdayCakeCandles.java))<br>
+Printing a staircase pattern using loops<br>
+<br>
+**10. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)** ([src/warmup/TimeConversion.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/TimeConversion.java))<br>
 Printing a staircase pattern using loops<br>
 <br>
 
