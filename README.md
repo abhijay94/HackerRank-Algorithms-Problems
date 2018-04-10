@@ -48,7 +48,26 @@ Finding if two Kangaroos ever meet, provided their positions and speeds are give
 **4. [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)** ([src/implementation/BetweenTwoSets.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BetweenTwoSets.java))<br>
 Finding factors and multiples between to sets<br>
 <br>
-**3. [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)** ([src/implementation/BreakingTheRecords.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BreakingTheRecords.java))<br>
-Counting everytime a player breaks her best and worst record.<br>
+**5. [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)** ([src/implementation/BreakingTheRecords.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BreakingTheRecords.java))<br>
+Counting everytime a player breaks her best and worst record<br>
 <br>
+**6. [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)** ([src/implementation/BirthdayChocolate.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BirthdayChocolate.java))<br>
+Determining the total number of ways that Lily can portion her chocolate bar to share with Ron
+<br>
+**7. [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)** ([src/implementation/DivisibleSumPairs.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DivisibleSumPairs.java))<br>
+Finding pairs of numbers in an array whose sum is divisible by another given number<br>
+<br>
+**8. [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)** ([src/implementation/MigratoryBirds.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/MigratoryBirds.java))<br>
+Printing the bird seen most number of times in an array<br>
+<br>
+**9. [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)** ([src/implementation/DayOfTheProgrammer.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DayOfTheProgrammer.java))<br>
+Printing te date on which the day of the programmer occurs as per Russian calendar<br>
+<br>
+**10. [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)** ([src/implementation/BonAppetit.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BonAppetit.java))<br>
+Dividing the bill as per the given problem<br>
+<br>
+**11. [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)** ([src/implementation/SockMerchant.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/SockMerchant.java))<br>
+Finding count of matching pairs of socks of given colors<br>
+<br>
+
 
