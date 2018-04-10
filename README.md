@@ -36,7 +36,19 @@ Printing a staircase pattern using loops<br>
 
 <h3>Implementation</h3>
 
-**1. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)** ([src/warmup/GradingStudents.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/warmup/GradingStudents.java))<br>
-Printing a staircase pattern using loops<br>
+**1. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)** ([src/implementation/GradingStudents.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/GradingStudents.java))<br>
+Printing the grade for the student<br>
+<br>
+**2. [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)** ([src/implementation/AppleOrange.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/AppleOrange.java))<br>
+Printing the count of apples and oranges<br>
+<br>
+**3. [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)** ([src/implementation/Kangaroo.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/Kangaroo.java))<br>
+Finding if two Kangaroos ever meet, provided their positions and speeds are given<br>
+<br>
+**4. [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)** ([src/implementation/BetweenTwoSets.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BetweenTwoSets.java))<br>
+Finding factors and multiples between to sets<br>
+<br>
+**3. [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)** ([src/implementation/BreakingTheRecords.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BreakingTheRecords.java))<br>
+Counting everytime a player breaks her best and worst record.<br>
 <br>
 
