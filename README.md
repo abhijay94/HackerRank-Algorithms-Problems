@@ -72,5 +72,8 @@ Finding count of matching pairs of socks of given colors<br>
 **12. [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)** ([src/implementation/DrawingBook.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DrawingBook.java))<br>
 Finding number of pages flipped in a book to reach to a given page<br>
 <br>
+**12. [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem)** ([src/implementation/CountingValleys.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CountingValleys.java))<br>
+Counting the number of valleys occuring given a hiker's path<br>
+<br>
 
 
