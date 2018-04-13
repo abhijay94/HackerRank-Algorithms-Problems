@@ -81,6 +81,9 @@ Find maximum money that can be spend on keyboards and drives<br>
 **15. [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)** ([src/implementation/CatsAndMouse.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CatsAndMouse.java))<br>
 Find which cat catches the mouse or if the mouse escapes<br>
 <br>
+**16. [Magic Squares](https://www.hackerrank.com/challenges/magic-square-forming/copy-from/70704271)** ([src/implementation/MagicSquares.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/MagicSquares.java))<br>
+Finding least cost to change a 3 x 3 matrix into a magic square<br>
+<br>
 
 
 
