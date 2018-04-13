@@ -78,5 +78,9 @@ Counting the number of valleys occuring given a hiker's path<br>
 **14. [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)** ([src/implementation/ElectronicsShop.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/ElectronicsShop.java))<br>
 Find maximum money that can be spend on keyboards and drives<br>
 <br>
+**15. [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)** ([src/implementation/CatsAndMouse.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CatsAndMouse.java))<br>
+Find which cat catches the mouse or if the mouse escapes<br>
+<br>
+
 
 
