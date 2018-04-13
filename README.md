@@ -52,7 +52,7 @@ Finding factors and multiples between to sets<br>
 Counting everytime a player breaks her best and worst record<br>
 <br>
 **6. [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)** ([src/implementation/BirthdayChocolate.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BirthdayChocolate.java))<br>
-Determining the total number of ways that Lily can portion her chocolate bar to share with Ron
+Determining the total number of ways that Lily can portion her chocolate bar to share with Ron<br>
 <br>
 **7. [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)** ([src/implementation/DivisibleSumPairs.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DivisibleSumPairs.java))<br>
 Finding pairs of numbers in an array whose sum is divisible by another given number<br>
@@ -72,8 +72,11 @@ Finding count of matching pairs of socks of given colors<br>
 **12. [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)** ([src/implementation/DrawingBook.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DrawingBook.java))<br>
 Finding number of pages flipped in a book to reach to a given page<br>
 <br>
-**12. [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem)** ([src/implementation/CountingValleys.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CountingValleys.java))<br>
+**13. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)** ([src/implementation/CountingValleys.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CountingValleys.java))<br>
 Counting the number of valleys occuring given a hiker's path<br>
+<br>
+**14. [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)** ([src/implementation/ElectronicsShop.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/ElectronicsShop.java))<br>
+Find maximum money that can be spend on keyboards and drives<br>
 <br>
 
 
