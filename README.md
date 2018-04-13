@@ -84,6 +84,9 @@ Find which cat catches the mouse or if the mouse escapes<br>
 **16. [Magic Squares](https://www.hackerrank.com/challenges/magic-square-forming/copy-from/70704271)** ([src/implementation/MagicSquares.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/MagicSquares.java))<br>
 Finding least cost to change a 3 x 3 matrix into a magic square<br>
 <br>
+**17. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)** ([src/implementation/PickingNumbers.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/PickingNumbers.java))<br>
+Finding the maximum number of integers you can choose from the array such that the absolute difference between any two of them is 1<br>
+<br>
 
 
 
