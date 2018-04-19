@@ -87,6 +87,9 @@ Finding least cost to change a 3 x 3 matrix into a magic square<br>
 **17. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)** ([src/implementation/PickingNumbers.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/PickingNumbers.java))<br>
 Finding the maximum number of integers you can choose from the array such that the absolute difference between any two of them is 1<br>
 <br>
+**18. [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)** ([src/implementation/DesignerPDF.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DesignerPDF.java))<br>
+Finding the area to be underlined for the given String and height of all letters<br>
+<br>
 
 
 
