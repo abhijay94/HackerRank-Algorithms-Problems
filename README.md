@@ -99,6 +99,10 @@ Finding if the class takes place or not, given the time at which students reach<
 **21. [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)** ([src/implementation/BeautifulDays.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BeautifulDays.java))<br>
 Counting number of beautiful days from the given range of days<br>
 <br>
+**22. [ViralAdvertising](https://www.hackerrank.com/challenges/strange-advertising/problem)** ([src/implementation/ViralAdvertising.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/ViralAdvertising.java))<br>
+Print the number of people who liked the advertisement during the first n days<br>
+<br>
+
 
 
 
