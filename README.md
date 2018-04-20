@@ -90,6 +90,9 @@ Finding the maximum number of integers you can choose from the array such that t
 **18. [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)** ([src/implementation/DesignerPDF.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/DesignerPDF.java))<br>
 Finding the area to be underlined for the given String and height of all letters<br>
 <br>
+**19. [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)** ([src/implementation/UtopianTree.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/UtopianTree.java))<br>
+Finding the height of utopian tree after n cycles<br>
+<br>
 
 
 
