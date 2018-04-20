@@ -96,6 +96,9 @@ Finding the height of utopian tree after n cycles<br>
 **20. [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)** ([src/implementation/AngryProfessor.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/AngryProfessor.java))<br>
 Finding if the class takes place or not, given the time at which students reach<br>
 <br>
+**21. [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)** ([src/implementation/BeautifulDays.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/BeautifulDays.java))<br>
+Counting number of beautiful days from the given range of days<br>
+<br>
 
 
 
