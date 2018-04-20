@@ -93,6 +93,9 @@ Finding the area to be underlined for the given String and height of all letters
 **19. [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)** ([src/implementation/UtopianTree.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/UtopianTree.java))<br>
 Finding the height of utopian tree after n cycles<br>
 <br>
+**20. [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)** ([src/implementation/AngryProfessor.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/AngryProfessor.java))<br>
+Finding if the class takes place or not, given the time at which students reach<br>
+<br>
 
 
 
