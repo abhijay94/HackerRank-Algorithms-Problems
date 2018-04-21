@@ -105,6 +105,9 @@ Print the number of people who liked the advertisement during the first n days<b
 **23. [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)** ([src/implementation/SaveThePrisoner.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/SaveThePrisoner.java))<br>
 Print the chair number of the prisoner who receives the awful treat on a new line<br>
 <br>
+**24. [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)** ([src/implementation/CircularArrayRot.java](https://github.com/abhijay94/HackerRank-Algorithms-Problems/blob/master/src/implementation/CircularArrayRot.java))<br>
+Print the value of the element at index m of the rotated array on a new line<br>
+<br>
 
 
 
